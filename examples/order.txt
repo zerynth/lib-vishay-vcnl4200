@@ -1,0 +1,3 @@
+#Vishay
+    ##VCNL4200
+    get_distance

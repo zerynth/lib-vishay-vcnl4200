@@ -1,0 +1,15 @@
+---
+description: Driver for Vishay VCNL4200 proximity sensor
+fullname: lib.vishay.vcnl4200
+info:
+    chip_manufacturer: Vishay
+    chip_name: VCNL4200
+    name: Proximity Sensor
+    type: Sensor
+keywords:
+- vishay
+- proximity
+- distance
+- light
+title: VCNL4200 Proximity Sensor
+...

@@ -1,1 +1,0 @@
-# lib-vishay-vcnl4200
